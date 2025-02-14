@@ -10,7 +10,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=AlenaT06)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -79,17 +79,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки Catchup">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-catchup_1.0.png)
+[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажровки QA Studio (checkout)»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-qa_studio_checkout.png)
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
-
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna_certificate_139_hours_ru.jpg)
 <br>
 <br>
 
