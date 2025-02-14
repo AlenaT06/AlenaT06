@@ -79,12 +79,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки Catchup">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-catchup_1.0.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажровки QA Studio (checkout)»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-qa_studio_checkout.png)
+[<img src="/alena_trubitsyna-catchup_1.0.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажировки Catchup">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-catchup_1.0.png)
+[<img src="/alena_trubitsyna-qa_studio_checkout.png" width="280px" hspace="10px" alt="Сертификат о прохождении стажровки QA Studio (checkout)»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna-qa_studio_checkout.png)
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna_certificate_139_hours_ru.jpg)
+[<img src="/alena_trubitsyna_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AlenaT06/AlenaT06/refs/heads/main/alena_trubitsyna_certificate_139_hours_ru.jpg)
 <br>
 <br>
 
